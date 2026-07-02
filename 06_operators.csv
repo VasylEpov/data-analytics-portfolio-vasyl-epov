@@ -1,0 +1,8 @@
+operator_id,name,shift,department,start_date,certification_level
+OP-01,Коваленко Андрій,Зміна 1,Assembly,2023-03-15,Senior
+OP-02,Петренко Марія,Зміна 1,Assembly,2022-09-01,Senior
+OP-03,Сидоренко Олег,Зміна 2,Assembly,2024-01-10,Middle
+OP-04,Бондаренко Іван,Зміна 2,Assembly,2024-06-20,Junior
+OP-05,Мельник Ольга,Зміна 1,Assembly,2023-11-05,Middle
+OP-06,Шевченко Тарас,Зміна 1,Testing,2022-05-12,Senior
+OP-07,Кравченко Наталія,Зміна 2,Testing,2023-08-22,Middle

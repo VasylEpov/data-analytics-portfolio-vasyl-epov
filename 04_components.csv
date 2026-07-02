@@ -1,0 +1,19 @@
+component_id,component_name,supplier_id,unit_cost_uah,lead_time_days,stock_qty,min_stock_qty,category
+CMP-M01,FPV Motor 2306,SUP-01,1200,14,85,30,Motors
+CMP-M02,Recon Motor 4114,SUP-01,2800,14,42,15,Motors
+CMP-M03,Cargo Motor 6374,SUP-02,5500,21,18,10,Motors
+CMP-F01,30A ESC,SUP-03,650,7,120,40,Electronics
+CMP-F02,60A ESC,SUP-03,1100,7,55,20,Electronics
+CMP-F03,Flight Controller F7,SUP-04,3200,10,38,15,Electronics
+CMP-F04,GPS Module M9N,SUP-04,1800,10,45,20,Electronics
+CMP-B01,4S 1500mAh LiPo,SUP-05,1400,21,95,35,Batteries
+CMP-B02,6S 3000mAh LiPo,SUP-05,3200,21,40,15,Batteries
+CMP-B03,6S 10000mAh LiPo,SUP-06,8500,28,12,8,Batteries
+CMP-C01,Carbon Frame FPV 5",SUP-07,850,14,60,25,Frames
+CMP-C02,Recon Airframe Kit,SUP-07,12000,21,15,6,Frames
+CMP-C03,Cargo Frame H3,SUP-08,28000,28,6,4,Frames
+CMP-V01,FPV Camera 1200TVL,SUP-09,480,7,75,30,Video
+CMP-V02,Gimbal Camera 4K,SUP-09,8500,14,18,8,Video
+CMP-P01,5" HQ Propeller Set,SUP-10,220,5,200,60,Propellers
+CMP-P02,15" CF Propeller Set,SUP-10,1800,14,35,12,Propellers
+CMP-P03,22" CF Propeller Set,SUP-10,3500,14,20,8,Propellers

@@ -1,0 +1,11 @@
+supplier_id,supplier_name,country,on_time_pct,defect_rate_pct,avg_lead_days,status,contact_email
+SUP-01,MotorTech UA,Ukraine,94,1.2,14,Active,motors@motortech.ua
+SUP-02,PowerDrive Ltd,Poland,88,2.1,21,Active,sales@powerdrive.pl
+SUP-03,SpeedCtrl Systems,Ukraine,97,0.8,7,Active,info@speedctrl.ua
+SUP-04,NavCore Electronics,Taiwan,91,1.5,10,Active,b2b@navcore.tw
+SUP-05,BatteryPro UA,Ukraine,85,3.2,21,Active,supply@batterypro.ua
+SUP-06,PowerCell Heavy,Germany,96,0.5,28,Active,orders@powercell.de
+SUP-07,CarbonWorks,China,82,2.8,14,Active,export@carbonworks.cn
+SUP-08,HeavyFrame Industries,Ukraine,90,1.1,28,Active,hfi@heavyframe.ua
+SUP-09,VisionTech,China,88,1.9,7,Active,sales@visiontech.cn
+SUP-10,PropellerShop,Ukraine,99,0.3,5,Active,orders@propellershop.ua

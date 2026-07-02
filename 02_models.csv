@@ -1,0 +1,5 @@
+model_id,model_name,class,payload_kg,endurance_min,max_speed_kmh,unit_cost_uah,category
+FPV-X1,FPV Striker X1,FPV,0.5,22,140,45000,Attack
+REC-S2,Recon Scout S2,Reconnaissance,1.2,65,90,120000,Recon
+CRG-H3,Cargo Hawk H3,Cargo,5.0,40,70,280000,Logistics
+FPV-X2,FPV Striker X2,FPV,0.8,25,155,58000,Attack
